@@ -1,16 +1,17 @@
-## Hi there 👋
+# Como has llegado hasta aqui...
 
-<!--
-**Luu-Chan/Luu-Chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Sobre mí**  
+Soy un desarrollador apasionado por la tecnología, la programación y la construcción de soluciones creativas. Me gusta trabajar en proyectos que combinan lógica, diseño y buenas prácticas de desarrollo.
 
-Here are some ideas to get you started:
+🛠️ **Tecnologías y herramientas que utilizo**  
+- Lenguajes: JavaScript | TypeScript | C++ | Java | Go | Python  
+- Frameworks y librerías: React | Node.js | Express
+- Otros: Git Linux | JFlex/CUP | VS Code
+- Arquitectura de software y buenas prácticas
+- Desarrollo full stack moderno
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Conctacto**  
+- Email: [linkman839@gmail.com]  
+
+ _"Si miras al abismo el abismo te devuelve la mirada."_
+
